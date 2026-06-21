@@ -1,2 +1,14 @@
 # 2026worldcup-wwwmax-hub
-HTML page archive and documentation
+
+HTML 页面发布记录
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 状态说明
+
+页面文件会按任务写入，仓库提交记录可用于查看变化。
